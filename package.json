@@ -1,6 +1,6 @@
 {
   "name": "fabrik-fitframe",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "wrapper to create responsive iframes",
   "main": "fitframe.js",
   "scripts": {
