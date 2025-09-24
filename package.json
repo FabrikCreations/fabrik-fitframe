@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phil118/FitFrame.js.git"
+    "url": "git+https://github.com/FabrikCreations/fabrik-fitframe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phil118/FitFrame.js/issues"
+    "url": "https://github.com/FabrikCreations/fabrik-fitframe/issues"
   },
-  "homepage": "https://github.com/phil118/FitFrame.js#readme"
+  "homepage": "https://github.com/FabrikCreations/fabrik-fitframe#readme"
 }
