@@ -6,11 +6,9 @@ A lightweight, easy-to-use jQuery plugin for responsive iframes.
 
 ## Setup
 
-FitFrame.js requires jQuery. It has only been tested with jQuery 1.11 so if you have problems with any other versions let me know.
-
 You can install via npm
 
-    bower install fabrik-fitframe --save
+    npm i @fabrikcreations/fabrik-fitframe --save-dev
 
 If you're using `mode: wrap` (the default) you'll want to reference `fitframe.css`:
 
